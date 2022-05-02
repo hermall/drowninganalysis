@@ -1,0 +1,414 @@
+State,County,County Code,Deaths
+Illinois,"Adams County, IL",17001,20
+Illinois,"Boone County, IL",17007,15
+Illinois,"Champaign County, IL",17019,27
+Illinois,"Coles County, IL",17029,15
+Illinois,"Cook County, IL",17031,1354
+Illinois,"DuPage County, IL",17043,142
+Illinois,"Franklin County, IL",17055,17
+Illinois,"Grundy County, IL",17063,15
+Illinois,"Henry County, IL",17073,11
+Illinois,"Jackson County, IL",17077,17
+Illinois,"Jefferson County, IL",17081,10
+Illinois,"Kane County, IL",17089,100
+Illinois,"Kankakee County, IL",17091,33
+Illinois,"Kendall County, IL",17093,13
+Illinois,"Knox County, IL",17095,15
+Illinois,"Lake County, IL",17097,131
+Illinois,"LaSalle County, IL",17099,25
+Illinois,"McHenry County, IL",17111,50
+Illinois,"McLean County, IL",17113,25
+Illinois,"Macon County, IL",17115,26
+Illinois,"Madison County, IL",17119,83
+Illinois,"Massac County, IL",17127,10
+Illinois,"Morgan County, IL",17137,13
+Illinois,"Ogle County, IL",17141,11
+Illinois,"Peoria County, IL",17143,53
+Illinois,"Rock Island County, IL",17161,40
+Illinois,"St. Clair County, IL",17163,73
+Illinois,"Sangamon County, IL",17167,42
+Illinois,"Tazewell County, IL",17179,36
+Illinois,"Vermilion County, IL",17183,22
+Illinois,"Whiteside County, IL",17195,13
+Illinois,"Will County, IL",17197,131
+Illinois,"Williamson County, IL",17199,27
+Illinois,"Winnebago County, IL",17201,74
+Illinois,"Woodford County, IL",17203,13
+Illinois,,,3027
+Indiana,"Allen County, IN",18003,88
+Indiana,"Bartholomew County, IN",18005,20
+Indiana,"Boone County, IN",18011,10
+Indiana,"Cass County, IN",18017,11
+Indiana,"Clark County, IN",18019,29
+Indiana,"Dearborn County, IN",18029,18
+Indiana,"Delaware County, IN",18035,29
+Indiana,"Dubois County, IN",18037,11
+Indiana,"Elkhart County, IN",18039,62
+Indiana,"Floyd County, IN",18043,25
+Indiana,"Grant County, IN",18053,20
+Indiana,"Hamilton County, IN",18057,43
+Indiana,"Hancock County, IN",18059,10
+Indiana,"Harrison County, IN",18061,14
+Indiana,"Hendricks County, IN",18063,28
+Indiana,"Howard County, IN",18067,18
+Indiana,"Jackson County, IN",18071,10
+Indiana,"Jennings County, IN",18079,15
+Indiana,"Johnson County, IN",18081,16
+Indiana,"Knox County, IN",18083,17
+Indiana,"Kosciusko County, IN",18085,21
+Indiana,"Lagrange County, IN",18087,11
+Indiana,"Lake County, IN",18089,126
+Indiana,"La Porte County, IN",18091,29
+Indiana,"Lawrence County, IN",18093,19
+Indiana,"Madison County, IN",18095,41
+Indiana,"Marion County, IN",18097,256
+Indiana,"Marshall County, IN",18099,15
+Indiana,"Monroe County, IN",18105,33
+Indiana,"Montgomery County, IN",18107,14
+Indiana,"Morgan County, IN",18109,16
+Indiana,"Newton County, IN",18111,10
+Indiana,"Noble County, IN",18113,21
+Indiana,"Owen County, IN",18119,11
+Indiana,"Perry County, IN",18123,11
+Indiana,"Porter County, IN",18127,37
+Indiana,"Posey County, IN",18129,10
+Indiana,"Putnam County, IN",18133,11
+Indiana,"St. Joseph County, IN",18141,70
+Indiana,"Shelby County, IN",18145,10
+Indiana,"Spencer County, IN",18147,10
+Indiana,"Sullivan County, IN",18153,11
+Indiana,"Tippecanoe County, IN",18157,31
+Indiana,"Vanderburgh County, IN",18163,51
+Indiana,"Vermillion County, IN",18165,10
+Indiana,"Vigo County, IN",18167,19
+Indiana,"Warrick County, IN",18173,15
+Indiana,"Wayne County, IN",18177,14
+Indiana,,,1675
+Michigan,"Allegan County, MI",26005,24
+Michigan,"Alpena County, MI",26007,11
+Michigan,"Barry County, MI",26015,20
+Michigan,"Bay County, MI",26017,30
+Michigan,"Berrien County, MI",26021,44
+Michigan,"Branch County, MI",26023,16
+Michigan,"Calhoun County, MI",26025,37
+Michigan,"Cass County, MI",26027,20
+Michigan,"Chippewa County, MI",26033,14
+Michigan,"Clinton County, MI",26037,14
+Michigan,"Delta County, MI",26041,17
+Michigan,"Dickinson County, MI",26043,13
+Michigan,"Eaton County, MI",26045,26
+Michigan,"Emmet County, MI",26047,10
+Michigan,"Genesee County, MI",26049,97
+Michigan,"Gladwin County, MI",26051,11
+Michigan,"Grand Traverse County, MI",26055,34
+Michigan,"Huron County, MI",26063,11
+Michigan,"Ingham County, MI",26065,60
+Michigan,"Ionia County, MI",26067,13
+Michigan,"Iosco County, MI",26069,10
+Michigan,"Isabella County, MI",26073,13
+Michigan,"Jackson County, MI",26075,35
+Michigan,"Kalamazoo County, MI",26077,70
+Michigan,"Kalkaska County, MI",26079,10
+Michigan,"Kent County, MI",26081,139
+Michigan,"Lapeer County, MI",26087,21
+Michigan,"Lenawee County, MI",26091,21
+Michigan,"Livingston County, MI",26093,48
+Michigan,"Macomb County, MI",26099,197
+Michigan,"Manistee County, MI",26101,10
+Michigan,"Marquette County, MI",26103,17
+Michigan,"Mecosta County, MI",26107,14
+Michigan,"Menominee County, MI",26109,12
+Michigan,"Midland County, MI",26111,14
+Michigan,"Monroe County, MI",26115,29
+Michigan,"Montcalm County, MI",26117,20
+Michigan,"Muskegon County, MI",26121,61
+Michigan,"Newaygo County, MI",26123,13
+Michigan,"Oakland County, MI",26125,263
+Michigan,"Ottawa County, MI",26139,59
+Michigan,"Saginaw County, MI",26145,61
+Michigan,"St. Clair County, MI",26147,67
+Michigan,"St. Joseph County, MI",26149,17
+Michigan,"Sanilac County, MI",26151,11
+Michigan,"Shiawassee County, MI",26155,20
+Michigan,"Tuscola County, MI",26157,18
+Michigan,"Van Buren County, MI",26159,24
+Michigan,"Washtenaw County, MI",26161,70
+Michigan,"Wayne County, MI",26163,536
+Michigan,"Wexford County, MI",26165,15
+Michigan,,,2595
+Ohio,"Adams County, OH",39001,12
+Ohio,"Allen County, OH",39003,16
+Ohio,"Ashland County, OH",39005,11
+Ohio,"Ashtabula County, OH",39007,32
+Ohio,"Athens County, OH",39009,13
+Ohio,"Auglaize County, OH",39011,10
+Ohio,"Belmont County, OH",39013,19
+Ohio,"Brown County, OH",39015,15
+Ohio,"Butler County, OH",39017,63
+Ohio,"Clark County, OH",39023,41
+Ohio,"Clermont County, OH",39025,44
+Ohio,"Columbiana County, OH",39029,20
+Ohio,"Crawford County, OH",39033,11
+Ohio,"Cuyahoga County, OH",39035,315
+Ohio,"Darke County, OH",39037,11
+Ohio,"Defiance County, OH",39039,16
+Ohio,"Delaware County, OH",39041,20
+Ohio,"Erie County, OH",39043,14
+Ohio,"Fairfield County, OH",39045,16
+Ohio,"Franklin County, OH",39049,244
+Ohio,"Gallia County, OH",39053,13
+Ohio,"Geauga County, OH",39055,19
+Ohio,"Greene County, OH",39057,25
+Ohio,"Hamilton County, OH",39061,172
+Ohio,"Hancock County, OH",39063,13
+Ohio,"Holmes County, OH",39075,10
+Ohio,"Jefferson County, OH",39081,10
+Ohio,"Knox County, OH",39083,10
+Ohio,"Lake County, OH",39085,45
+Ohio,"Lawrence County, OH",39087,20
+Ohio,"Licking County, OH",39089,31
+Ohio,"Lorain County, OH",39093,70
+Ohio,"Lucas County, OH",39095,113
+Ohio,"Mahoning County, OH",39099,40
+Ohio,"Marion County, OH",39101,16
+Ohio,"Medina County, OH",39103,26
+Ohio,"Mercer County, OH",39107,10
+Ohio,"Miami County, OH",39109,20
+Ohio,"Montgomery County, OH",39113,139
+Ohio,"Morgan County, OH",39115,10
+Ohio,"Morrow County, OH",39117,10
+Ohio,"Muskingum County, OH",39119,13
+Ohio,"Ottawa County, OH",39123,18
+Ohio,"Pickaway County, OH",39129,12
+Ohio,"Portage County, OH",39133,21
+Ohio,"Preble County, OH",39135,13
+Ohio,"Putnam County, OH",39137,11
+Ohio,"Richland County, OH",39139,10
+Ohio,"Ross County, OH",39141,23
+Ohio,"Sandusky County, OH",39143,10
+Ohio,"Scioto County, OH",39145,19
+Ohio,"Seneca County, OH",39147,17
+Ohio,"Shelby County, OH",39149,13
+Ohio,"Stark County, OH",39151,56
+Ohio,"Summit County, OH",39153,102
+Ohio,"Trumbull County, OH",39155,38
+Ohio,"Tuscarawas County, OH",39157,17
+Ohio,"Warren County, OH",39165,49
+Ohio,"Washington County, OH",39167,21
+Ohio,"Wayne County, OH",39169,13
+Ohio,"Wood County, OH",39173,21
+Ohio,,,2432
+Wisconsin,"Barron County, WI",55005,13
+Wisconsin,"Brown County, WI",55009,42
+Wisconsin,"Chippewa County, WI",55017,22
+Wisconsin,"Columbia County, WI",55021,12
+Wisconsin,"Dane County, WI",55025,117
+Wisconsin,"Dodge County, WI",55027,14
+Wisconsin,"Douglas County, WI",55031,23
+Wisconsin,"Dunn County, WI",55033,13
+Wisconsin,"Eau Claire County, WI",55035,27
+Wisconsin,"Fond du Lac County, WI",55039,23
+Wisconsin,"Grant County, WI",55043,12
+Wisconsin,"Jefferson County, WI",55055,19
+Wisconsin,"Kenosha County, WI",55059,52
+Wisconsin,"La Crosse County, WI",55063,29
+Wisconsin,"Lincoln County, WI",55069,12
+Wisconsin,"Manitowoc County, WI",55071,21
+Wisconsin,"Marathon County, WI",55073,39
+Wisconsin,"Marinette County, WI",55075,15
+Wisconsin,"Milwaukee County, WI",55079,275
+Wisconsin,"Oneida County, WI",55085,14
+Wisconsin,"Outagamie County, WI",55087,38
+Wisconsin,"Ozaukee County, WI",55089,12
+Wisconsin,"Pierce County, WI",55093,11
+Wisconsin,"Polk County, WI",55095,12
+Wisconsin,"Portage County, WI",55097,20
+Wisconsin,"Racine County, WI",55101,51
+Wisconsin,"Rock County, WI",55105,43
+Wisconsin,"St. Croix County, WI",55109,23
+Wisconsin,"Sauk County, WI",55111,16
+Wisconsin,"Sheboygan County, WI",55117,35
+Wisconsin,"Walworth County, WI",55127,31
+Wisconsin,"Washington County, WI",55131,19
+Wisconsin,"Waukesha County, WI",55133,65
+Wisconsin,"Waupaca County, WI",55135,10
+Wisconsin,"Winnebago County, WI",55139,58
+Wisconsin,"Wood County, WI",55141,22
+Wisconsin,,,1452
+Iowa,"Black Hawk County, IA",19013,27
+Iowa,"Cerro Gordo County, IA",19033,19
+Iowa,"Clinton County, IA",19045,17
+Iowa,"Dallas County, IA",19049,13
+Iowa,"Des Moines County, IA",19057,14
+Iowa,"Dubuque County, IA",19061,19
+Iowa,"Jasper County, IA",19099,10
+Iowa,"Johnson County, IA",19103,20
+Iowa,"Lee County, IA",19111,19
+Iowa,"Linn County, IA",19113,40
+Iowa,"Marshall County, IA",19127,20
+Iowa,"Polk County, IA",19153,113
+Iowa,"Pottawattamie County, IA",19155,23
+Iowa,"Scott County, IA",19163,46
+Iowa,"Story County, IA",19169,17
+Iowa,"Wapello County, IA",19179,16
+Iowa,"Webster County, IA",19187,12
+Iowa,"Woodbury County, IA",19193,31
+Iowa,,,733
+Kansas,"Butler County, KS",20015,15
+Kansas,"Crawford County, KS",20037,12
+Kansas,"Douglas County, KS",20045,18
+Kansas,"Geary County, KS",20061,10
+Kansas,"Johnson County, KS",20091,78
+Kansas,"Labette County, KS",20099,11
+Kansas,"Leavenworth County, KS",20103,20
+Kansas,"Montgomery County, KS",20125,18
+Kansas,"Reno County, KS",20155,19
+Kansas,"Saline County, KS",20169,20
+Kansas,"Sedgwick County, KS",20173,170
+Kansas,"Shawnee County, KS",20177,53
+Kansas,"Wyandotte County, KS",20209,53
+Kansas,,,713
+Minnesota,"Anoka County, MN",27003,62
+Minnesota,"Becker County, MN",27005,14
+Minnesota,"Beltrami County, MN",27007,17
+Minnesota,"Benton County, MN",27009,15
+Minnesota,"Blue Earth County, MN",27013,15
+Minnesota,"Carver County, MN",27019,18
+Minnesota,"Cass County, MN",27021,16
+Minnesota,"Chisago County, MN",27025,14
+Minnesota,"Clay County, MN",27027,21
+Minnesota,"Crow Wing County, MN",27035,29
+Minnesota,"Dakota County, MN",27037,63
+Minnesota,"Douglas County, MN",27041,12
+Minnesota,"Freeborn County, MN",27047,13
+Minnesota,"Hennepin County, MN",27053,339
+Minnesota,"Itasca County, MN",27061,21
+Minnesota,"Kandiyohi County, MN",27067,15
+Minnesota,"Morrison County, MN",27097,13
+Minnesota,"Olmsted County, MN",27109,31
+Minnesota,"Otter Tail County, MN",27111,16
+Minnesota,"Pine County, MN",27115,14
+Minnesota,"Ramsey County, MN",27123,182
+Minnesota,"St. Louis County, MN",27137,64
+Minnesota,"Scott County, MN",27139,25
+Minnesota,"Sherburne County, MN",27141,19
+Minnesota,"Stearns County, MN",27145,42
+Minnesota,"Washington County, MN",27163,54
+Minnesota,"Winona County, MN",27169,11
+Minnesota,"Wright County, MN",27171,35
+Minnesota,,,1415
+Missouri,"Barry County, MO",29009,10
+Missouri,"Boone County, MO",29019,41
+Missouri,"Buchanan County, MO",29021,22
+Missouri,"Butler County, MO",29023,23
+Missouri,"Callaway County, MO",29027,10
+Missouri,"Camden County, MO",29029,25
+Missouri,"Cape Girardeau County, MO",29031,19
+Missouri,"Cass County, MO",29037,16
+Missouri,"Christian County, MO",29043,14
+Missouri,"Clay County, MO",29047,44
+Missouri,"Cole County, MO",29051,20
+Missouri,"Dunklin County, MO",29069,11
+Missouri,"Franklin County, MO",29071,35
+Missouri,"Greene County, MO",29077,48
+Missouri,"Henry County, MO",29083,10
+Missouri,"Howell County, MO",29091,11
+Missouri,"Jackson County, MO",29095,198
+Missouri,"Jasper County, MO",29097,28
+Missouri,"Jefferson County, MO",29099,59
+Missouri,"Johnson County, MO",29101,10
+Missouri,"Laclede County, MO",29105,11
+Missouri,"Lafayette County, MO",29107,13
+Missouri,"Lincoln County, MO",29113,17
+Missouri,"Morgan County, MO",29141,15
+Missouri,"Newton County, MO",29145,13
+Missouri,"Pemiscot County, MO",29155,14
+Missouri,"Pettis County, MO",29159,11
+Missouri,"Phelps County, MO",29161,13
+Missouri,"Platte County, MO",29165,29
+Missouri,"Pulaski County, MO",29169,15
+Missouri,"Randolph County, MO",29175,10
+Missouri,"St. Charles County, MO",29183,72
+Missouri,"St. Francois County, MO",29187,13
+Missouri,"St. Louis County, MO",29189,214
+Missouri,"Stone County, MO",29209,11
+Missouri,"Taney County, MO",29213,16
+Missouri,"Texas County, MO",29215,10
+Missouri,"Warren County, MO",29219,12
+Missouri,"Webster County, MO",29225,10
+Missouri,"St. Louis city, MO",29510,97
+Missouri,,,1567
+Nebraska,"Dawson County, NE",31047,10
+Nebraska,"Douglas County, NE",31055,98
+Nebraska,"Hall County, NE",31079,13
+Nebraska,"Lancaster County, NE",31109,49
+Nebraska,"Lincoln County, NE",31111,14
+Nebraska,"Madison County, NE",31119,13
+Nebraska,"Sarpy County, NE",31153,24
+Nebraska,,,387
+North Dakota,"Burleigh County, ND",38015,22
+North Dakota,"Cass County, ND",38017,48
+North Dakota,"Grand Forks County, ND",38035,16
+North Dakota,"Stutsman County, ND",38093,10
+North Dakota,"Ward County, ND",38101,16
+North Dakota,,,210
+South Dakota,"Minnehaha County, SD",46099,33
+South Dakota,"Pennington County, SD",46103,25
+South Dakota,"Shannon County, SD",46113,16
+South Dakota,,,218
+,,,16424
+,,,16424
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
