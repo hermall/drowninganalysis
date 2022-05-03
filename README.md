@@ -1,7 +1,7 @@
 # Drowning Data Analysis #
 The purpose of this project was to conduct an analysis on the relationship between socioeconomic status and drowning rates in the Midwestern United States using R. 
 
-## Steps to Replicate and Personalize This Site ##
+## Steps to Run and Create Data ##
 1. Clone this repository to local computer
 2. Rename the directory to reflect the new project name
 3. Delete .git folder
