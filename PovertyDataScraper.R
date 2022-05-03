@@ -79,4 +79,4 @@ colnames(df)[6] <- "Population"
 colnames(df)[7] <- "Poverty"
 
 
-write.csv(df, file="povertyData.csv")
+write.csv(df, file="poverty.csv")
